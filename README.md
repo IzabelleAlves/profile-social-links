@@ -4,7 +4,7 @@ Este projeto é um mini-portfólio básico para exibir informações e links par
 
 ## Visualização do Projeto
 
-Você pode visualizar a aplicação rodando em: .
+Você pode visualizar a aplicação em execução em: [https://izabelle-profile-links.netlify.app/](https://izabelle-profile-links.netlify.app/).
 
 ![alt text](images/image.png)
 
